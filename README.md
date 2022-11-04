@@ -1,4 +1,4 @@
-# html-london-trip
+# Viaggio a Londra
 1. Creo la repository su GitHub e la clono sul mio pc tramite VSCode.
 2. Creo la cartella img e inserisco tutte le immagini a me necessarie.
 3. Imposto la pagina HTML.
